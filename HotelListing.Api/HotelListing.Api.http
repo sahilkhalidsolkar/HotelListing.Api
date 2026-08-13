@@ -16,7 +16,7 @@ Content-Type: application/json
   "name": "Hotel Test",
   "address": "123 Test Street",
   "rating": 4.5,
-"id": 1000
+  "id": 1000
 }
 
 ###
